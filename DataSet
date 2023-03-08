@@ -1,0 +1,4 @@
+Custom data set
+Creating an custom data set:-For creating an custom data set I have used an python package called labelimg.
+Labelimg:-LabelImg is a graphical image annotation tool. It is written in Python and uses Qt for its graphical interface. Annotations are saved as XML files text files.These files are used as 
+labels for our images .This labels are used for training the data set.
